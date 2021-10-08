@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mini Challenge</string>
+    <string name="text_format_longitude">Longitude: %s</string>
+    <string name="text_format_latitude">Latitude: %s</string>
+    <string name="text_format_provider">Provider: %s</string>
+    <string name="text_button_open_maps">Open to Maps</string>
+    <string name="text_button_get_current_location">Get Current Location</string>
+    <string name="text_longitude">Longitude:</string>
+    <string name="text_latitude">latitude:</string>
+    <string name="text_provider">provider:</string>
+    <string name="text_open_profile">Open Profile</string>
+    <string name="text_name">Muhammad Hermas Yuda P</string>
+    <string name="text_job">Android Developer @Alodokter</string>
+    <string name="text_indonesia">Indonesia</string>
+</resources>
