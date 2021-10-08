@@ -1,4 +1,4 @@
-package km.binaracademy.minichallenge.ui.main
+package km.binaracademy.minichallenge.ui.main.adapter
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

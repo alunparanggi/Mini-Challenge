@@ -1,11 +1,11 @@
-package km.binaracademy.minichallenge
+package km.binaracademy.minichallenge.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.google.android.material.tabs.TabLayoutMediator
 import km.binaracademy.minichallenge.databinding.ActivityMainBinding
 import km.binaracademy.minichallenge.ui.location.LocationFragment
-import km.binaracademy.minichallenge.ui.main.ViewPagerAdapter
+import km.binaracademy.minichallenge.ui.main.adapter.ViewPagerAdapter
 import km.binaracademy.minichallenge.ui.profile.ProfileFragment
 
 class MainActivity : AppCompatActivity() {
