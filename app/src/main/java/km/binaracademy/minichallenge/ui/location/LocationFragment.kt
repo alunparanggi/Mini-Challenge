@@ -56,7 +56,7 @@ class LocationFragment : Fragment() {
 
     private fun getCurrentLocation() {
         locationProviderClient = LocationServices.getFusedLocationProviderClient(context)
-        this?.let {
+        this.let {
             if (ActivityCompat.checkSelfPermission(
                     requireContext(),
                     Manifest.permission.ACCESS_FINE_LOCATION
